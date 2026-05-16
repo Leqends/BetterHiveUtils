@@ -1,14 +1,59 @@
-<h1 align="center">Template</h1>
+<a id="readme-top"></a>
 
-## A template for Latite Scripting that includes:
-- [Typescript](https://www.typescriptlang.org/) (types and linting)
-- Up to date [definitions](https://www.npmjs.com/package/@latitescripting/latiteapi) for VSCode autocomplete via npm
-- [a VSCode task](https://github.com/LatiteScripting/Template/blob/master/.vscode/tasks.json) for compiling with Typescript (Ctrl + Shift + B),
-- [Example scripts](https://github.com/LatiteScripting/Template/tree/master/src/examples)
+<div align="center">
 
-## How do I use the template?
-This template is the one used in [CNLSP](https://github.com/Plextora/CNLSP/releases/latest), a program that can automatically setup a scripting project for you.
+# Better Hive Utils
 
-You can also use the "Use this template" button in the top right corner to create a GitHub repository or GitHub codespace (paid) with this template.
+A lightweight utility plugin for Latite Client, built to improve quality of life on The Hive.
 
-![image](https://github.com/LatiteScripting/Template/assets/71889427/1b5f9a7d-6cc3-4096-9c37-ed2afb5de78d)
+<br />
+
+![Status](https://img.shields.io/badge/status-in%20development-yellow?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Latite-blue?style=for-the-badge)
+![Server](https://img.shields.io/badge/server-The%20Hive-purple?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v0.1.0--dev-7c3aed?style=for-the-badge)</div>
+
+---
+
+
+---
+
+## Roadmap
+
+- [x] **Remove ~~Herobrine~~ you ;)**
+- [ ] **AutoQueue**
+    - [ ] Automatically queue into a new game
+    - [ ] Add options for going to the hub instead of using /q
+
+- [ ] **Party System**
+    - [ ] Detect when party members join
+    - [ ] Detect when party members leave
+    - [ ] Add UI notifications
+    - [ ] Add optional party member list
+
+- [ ] **Map Dodge**
+    - [ ] Detect current map
+    - [ ] Add configurable map dodge list
+    - [ ] Add dodge notifications
+
+---
+
+## Status
+
+Better Hive Utils is currently in development.
+
+Features may change, be renamed, or be removed as the plugin evolves.
+
+---
+
+## Disclaimer
+
+Better Hive Utils is an unofficial project and is not affiliated with **The Hive**, or **Latite**.
+
+---
+
+<div align="center">
+
+<em>"Simplicity is the soul of efficiency."</em>
+
+</div>
