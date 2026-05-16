@@ -15,9 +15,6 @@ A lightweight utility plugin for Latite Client, built to improve quality of life
 
 ---
 
-
----
-
 ## Roadmap
 
 - [x] **Remove ~~Herobrine~~ you ;)**
@@ -54,6 +51,6 @@ Better Hive Utils is an unofficial project and is not affiliated with **The Hive
 
 <div align="center">
 
-<em>"Simplicity is the soul of efficiency."</em>
+> Simplicity is the soul of efficiency
 
 </div>
